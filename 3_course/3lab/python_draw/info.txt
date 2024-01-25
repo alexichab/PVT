@@ -1,0 +1,5 @@
+4x^2 / NODES + 4x + 4x = RAM * 0,8
+RAM = 24 * 1024^3 (24 GiB)
+NODES=1: X = 71790 
+NODES=18: X = 304565
+ 
