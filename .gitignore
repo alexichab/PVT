@@ -1,0 +1,13 @@
+bin
+dgemv
+montecarlo
+montecarlo_serial
+riemann
+riemann_serial
+parallel1
+parallel2
+parallel3
+parallel4
+parallel5
+serial
+main
